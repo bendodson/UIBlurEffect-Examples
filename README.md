@@ -1,0 +1,1 @@
+A basic set of examples which I may update from time-to-time showing how to use UIBlurEffect in iOS 8 both in Swift and Objective-C.
